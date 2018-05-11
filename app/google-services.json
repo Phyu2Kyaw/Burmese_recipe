@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296151514601",
+    "firebase_url": "https://burmese-recipe.firebaseio.com",
+    "project_id": "burmese-recipe",
+    "storage_bucket": "burmese-recipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296151514601:android:6e9ca9b75cd70a6f",
+        "android_client_info": {
+          "package_name": "com.example.doer.burmese_recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296151514601-99arjqolpd6tp0jj15c0bo8bq1q57u54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doer.burmese_recipe",
+            "certificate_hash": "fd6499e88f864b01e9515d78d868986575af652a"
+          }
+        },
+        {
+          "client_id": "296151514601-sj1pq4oq44jfhcpkf95uje4k9ubol2m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy-AubYZ9Wp7SU6Ff2AAAzh7VgmVH7cEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296151514601-sj1pq4oq44jfhcpkf95uje4k9ubol2m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
